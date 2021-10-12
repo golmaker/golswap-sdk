@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "golswap-sdk",
   "license": "MIT",
-  "version": "2.4.0",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "version": "0.1.0",
+  "description": "🛠 An SDK for building applications on top of GolSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "https://github.com/golmaker/gol-swap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "golswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
